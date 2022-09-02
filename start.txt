@@ -1,0 +1,2 @@
+streamlitVenv\environment\Scripts\activate
+streamlit run FD_Str.py
